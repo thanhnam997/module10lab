@@ -1,3 +1,3 @@
 ﻿<Project>
-  <Import Project="..\buildMultiTargeting\Northwind.props" />
+  <Import Project="../buildMultiTargeting/Northwind.props" />
 </Project>
