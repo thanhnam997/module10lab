@@ -1,0 +1,8 @@
+c:\Users\thanh\Northwind\bin\Debug\net8.0\linux-x64\publish\Northwind
+c:\Users\thanh\Northwind\bin\Debug\net8.0\linux-x64\publish\appsettings.Development.json
+c:\Users\thanh\Northwind\bin\Debug\net8.0\linux-x64\publish\appsettings.json
+c:\Users\thanh\Northwind\bin\Debug\net8.0\linux-x64\publish\Northwind.dll
+c:\Users\thanh\Northwind\bin\Debug\net8.0\linux-x64\publish\Northwind.deps.json
+c:\Users\thanh\Northwind\bin\Debug\net8.0\linux-x64\publish\Northwind.runtimeconfig.json
+c:\Users\thanh\Northwind\bin\Debug\net8.0\linux-x64\publish\Northwind.pdb
+c:\Users\thanh\Northwind\bin\Debug\net8.0\linux-x64\publish\System.Data.SqlClient.dll
